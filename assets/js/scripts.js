@@ -36,4 +36,3 @@ AOS.init({
                 alert(JSON.stringify(err));
             });
     });
-
